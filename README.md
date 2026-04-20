@@ -1,6 +1,7 @@
 # Desafio: Star Schema para Cenário de Universidade
 
 Este repositório contém a solução do desafio de modelagem dimensional de uma base de dados universitária, focada na análise da alocação de professores e carga horária.
+
 ![Star Scheme](StarScheme.png)
 
 ## 📌 Objetivo do Projeto
